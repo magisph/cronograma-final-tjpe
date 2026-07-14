@@ -1,4 +1,5 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
+import { useProgressStore } from './store/useProgressStore'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
@@ -6,6 +7,11 @@ import heroImg from './assets/hero.png'
 
 function App() {
   const [count, setCount] = useState(0)
+  const initializeFirebaseSync = useProgressStore((state) => state.initializeFirebaseSync)
+
+  useEffect(() => {
+    initializeFirebaseSync()
+  }, [initializeFirebaseSync])
 
   return (
     <>
