@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { useProgressStore } from './store/useProgressStore'
-import { AppLayout, TabType } from './components/layout/AppLayout'
+import { AppLayout, type TabType } from './components/layout/AppLayout'
 import { DailyView } from './pages/DailyView'
 import { DashboardView } from './pages/DashboardView'
 

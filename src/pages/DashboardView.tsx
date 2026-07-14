@@ -1,7 +1,7 @@
 import { useEffect, useState, useMemo } from 'react';
 import { useProgressStore } from '../store/useProgressStore';
 import cronogramaData from '../data/cronograma.json';
-import { DayData } from '../hooks/useCurrentDay';
+import type { DayData } from '../hooks/useCurrentDay';
 import { ResponsiveContainer, BarChart, Bar, XAxis, YAxis, Tooltip, CartesianGrid, Cell } from 'recharts';
 import { Trophy, Flame, Download } from 'lucide-react';
 

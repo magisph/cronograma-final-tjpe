@@ -1,9 +1,9 @@
 import { create } from 'zustand';
 import { persist, createJSONStorage } from 'zustand/middleware';
 import { auth, db, isFirebaseConfigured } from '../lib/firebase';
-import { signInAnonymously, onAuthStateChanged } from 'firebase/auth';
+import { signInAnonymously, onAuthStateChanged, type Auth } from 'firebase/auth';
 import type { User } from 'firebase/auth';
-import { doc, setDoc, getDoc, onSnapshot } from 'firebase/firestore';
+import { doc, type Firestore, setDoc, getDoc, onSnapshot } from 'firebase/firestore';
 
 export interface ProgressState {
   completedTasks: Record<string, Record<string, boolean>>; // { dayId: { taskId: boolean } }
@@ -40,7 +40,7 @@ export const useProgressStore = create<ProgressState>()(
           // If Firebase is configured and user is logged in, sync to Firestore
           const { userId } = get();
           if (isFirebaseConfigured && userId && db) {
-            setDoc(doc(db, 'userProgress', userId), { completedTasks: newTasks }, { merge: true })
+            setDoc(doc(db as Firestore, 'userProgress', userId), { completedTasks: newTasks }, { merge: true })
               .catch((error) => {
                 console.error("Error syncing to Firestore:", error);
               });
@@ -56,10 +56,10 @@ export const useProgressStore = create<ProgressState>()(
           if (isInitializing) return;
           isInitializing = true;
 
-          onAuthStateChanged(auth, async (user: User | null) => {
+          onAuthStateChanged(auth as Auth, async (user: User | null) => {
             if (user) {
               set({ userId: user.uid });
-              const docRef = doc(db, 'userProgress', user.uid);
+              const docRef = doc(db as Firestore, 'userProgress', user.uid);
               
               try {
                 const docSnap = await getDoc(docRef);
@@ -108,7 +108,7 @@ export const useProgressStore = create<ProgressState>()(
                 unsubscribeSnapshot = null;
               }
               // Sign in anonymously
-              signInAnonymously(auth).catch((error) => {
+              signInAnonymously(auth as Auth).catch((error) => {
                 console.error("Error signing in anonymously:", error);
                 set({ syncError: error.message });
               });

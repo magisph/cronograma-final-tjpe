@@ -1,4 +1,4 @@
-import { ReactNode } from 'react';
+import { type ReactNode } from 'react';
 import { Calendar, TrendingUp } from 'lucide-react';
 
 export type TabType = 'daily' | 'dashboard';
