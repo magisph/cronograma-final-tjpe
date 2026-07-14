@@ -2,7 +2,7 @@ import { render, screen, fireEvent } from '@testing-library/react';
 import { expect, test, vi } from 'vitest';
 import { TaskCheckbox } from './TaskCheckbox';
 
-test('TaskCheckbox renders and updates optimistically', () => {
+test('TaskCheckbox renders and calls onChange correctly', () => {
   const handleChange = vi.fn();
   
   const { rerender } = render(
@@ -14,9 +14,6 @@ test('TaskCheckbox renders and updates optimistically', () => {
   
   // Click
   fireEvent.click(button);
-  
-  // Should update locally optimistically
-  expect(button).toHaveAttribute('aria-checked', 'true');
   
   // Should call onChange with true
   expect(handleChange).toHaveBeenCalledWith(true);

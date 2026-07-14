@@ -9,7 +9,7 @@ export function AppLayout({ children }: AppLayoutProps) {
   return (
     <div className="flex flex-col md:flex-row h-screen w-full bg-gray-50 text-gray-900 overflow-hidden">
       {/* Content Area */}
-      <main className="flex-1 overflow-y-auto w-full md:pb-0 pb-16">
+      <main className="flex-1 overflow-y-auto w-full md:pb-0 pb-16 overscroll-y-contain">
         {children}
       </main>
 
@@ -18,7 +18,7 @@ export function AppLayout({ children }: AppLayoutProps) {
         fixed bottom-0 left-0 w-full h-16 bg-white border-t border-gray-200 
         md:relative md:h-full md:w-64 md:border-t-0 md:border-r 
         flex md:flex-col md:justify-start justify-around items-center md:items-stretch
-        z-50
+        z-50 md:order-first
       ">
         <div className="hidden md:flex items-center justify-center h-16 border-b border-gray-200 p-4">
           <h1 className="font-bold text-lg text-purple-700">TJ-PE 75D</h1>
