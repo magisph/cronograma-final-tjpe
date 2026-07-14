@@ -1,0 +1,1727 @@
+[
+  {
+    "dia": 1,
+    "data": "14/07/2026",
+    "dia_semana": "Terça-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Processo Civil",
+        "minutos": 90,
+        "assunto": "Apelação — Lei Seca (arts. 1.009-1.014 CPC) + Jurisprudência (Teoria da Causa Madura)"
+      },
+      {
+        "nome": "Dir. Ambiental",
+        "minutos": 60,
+        "assunto": "Código Florestal (APP, CAR, Reserva Legal) — Lei Seca (Lei 12.651/12) + Jurisprudência"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "Organização inicial, Caderno de Erros e Revisão do dia (sem marcos regressivos)."
+      }
+    ]
+  },
+  {
+    "dia": 2,
+    "data": "15/07/2026",
+    "dia_semana": "Quarta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Direito Penal",
+        "minutos": 90,
+        "assunto": "Crimes contra a administração pública — Lei Seca (arts. 312-327 CP) + Jurisprudência"
+      },
+      {
+        "nome": "Dir. Humanos",
+        "minutos": 60,
+        "assunto": "Sistema regional interamericano (SIDH) — Doutrina + Jurisprudência Corte IDH"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "Organização inicial, Caderno de Erros e Revisão do dia (sem marcos regressivos)."
+      }
+    ]
+  },
+  {
+    "dia": 3,
+    "data": "16/07/2026",
+    "dia_semana": "Quinta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Processo Penal",
+        "minutos": 90,
+        "assunto": "Prisão e Medidas Cautelares — Lei Seca (arts. 311-316 CPP) + Jurisprudência STF/STJ"
+      },
+      {
+        "nome": "Form. Humanística",
+        "minutos": 60,
+        "assunto": "Legislação Estadual (Organização Judiciária) — Lei Seca (Código PE)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "Organização inicial, Caderno de Erros e Revisão do dia (sem marcos regressivos)."
+      }
+    ]
+  },
+  {
+    "dia": 4,
+    "data": "17/07/2026",
+    "dia_semana": "Sexta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Constitucional",
+        "minutos": 90,
+        "assunto": "Repartição de competências — Lei Seca (arts. 21-24, 30 CF) + Jurisprudência STF"
+      },
+      {
+        "nome": "Dir. Tributário",
+        "minutos": 60,
+        "assunto": "Imunidades tributárias — Lei Seca (art. 150, VI CF) + Jurisprudência STF"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 1 — 14/07)"
+      }
+    ]
+  },
+  {
+    "dia": 5,
+    "data": "18/07/2026",
+    "dia_semana": "Sábado",
+    "tempo_total": "4h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Administrativo",
+        "minutos": 120,
+        "assunto": "Servidores Públicos — Lei Seca (Lei 8.112/90 + art. 37-41 CF) + Jurisprudência"
+      },
+      {
+        "nome": "Dir. Empresarial",
+        "minutos": 90,
+        "assunto": "Recuperação judicial — Lei Seca (Lei 11.101/05 atualizada) + Jurisprudência"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 2 — 15/07)"
+      }
+    ]
+  },
+  {
+    "dia": 6,
+    "data": "19/07/2026",
+    "dia_semana": "Domingo",
+    "tempo_total": "4h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Consumidor",
+        "minutos": 105,
+        "assunto": "Responsabilidade pelo fato do produto/serviço — Lei Seca (arts. 12-17 CDC) + Jurisprudência"
+      },
+      {
+        "nome": "ECA",
+        "minutos": 105,
+        "assunto": "Ato Infracional e Medidas Socioeducativas — Lei Seca (arts. 103-125 ECA + SINASE)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 3 — 16/07)"
+      }
+    ]
+  },
+  {
+    "dia": 7,
+    "data": "20/07/2026",
+    "dia_semana": "Segunda-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Direito Civil",
+        "minutos": 90,
+        "assunto": "Doação (Contratos em espécie) — Lei Seca (arts. 538-564 CC) + Jurisprudência"
+      },
+      {
+        "nome": "Dir. Eleitoral",
+        "minutos": 60,
+        "assunto": "Crimes eleitorais — Lei Seca (Código Eleitoral + Lei 9.504/97) + Jurisprudência"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 4 — 17/07)"
+      }
+    ]
+  },
+  {
+    "dia": 8,
+    "data": "21/07/2026",
+    "dia_semana": "Terça-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Processo Civil",
+        "minutos": 90,
+        "assunto": "Tutelas provisórias — Lei Seca (arts. 294-311 CPC) + Jurisprudência (estabilização)"
+      },
+      {
+        "nome": "Dir. Ambiental",
+        "minutos": 60,
+        "assunto": "Reparação do Dano Ambiental — Jurisprudência STJ/STF (imprescritibilidade)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 5 — 18/07)"
+      }
+    ]
+  },
+  {
+    "dia": 9,
+    "data": "22/07/2026",
+    "dia_semana": "Quarta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Direito Penal",
+        "minutos": 90,
+        "assunto": "Crimes contra o patrimônio — Lei Seca + Jurisprudência STF/STJ (Súmulas 442/443/582)"
+      },
+      {
+        "nome": "Dir. Humanos",
+        "minutos": 60,
+        "assunto": "Teoria Geral dos Direitos Humanos — Doutrina (gerações/dimensões)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 6 — 19/07)"
+      }
+    ]
+  },
+  {
+    "dia": 10,
+    "data": "23/07/2026",
+    "dia_semana": "Quinta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Processo Penal",
+        "minutos": 90,
+        "assunto": "Prova — Doutrina (cadeia de custódia, arts. 158-A a 158-F) + Jurisprudência (reconhecimento)"
+      },
+      {
+        "nome": "Form. Humanística",
+        "minutos": 60,
+        "assunto": "Lógica do razoável (Recaséns Siches) — Doutrina (lógica formal vs. material)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 7 — 20/07)"
+      }
+    ]
+  },
+  {
+    "dia": 11,
+    "data": "24/07/2026",
+    "dia_semana": "Sexta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Constitucional",
+        "minutos": 90,
+        "assunto": "Controle de constitucionalidade — Doutrina + Lei Seca + Jurisprudência (modulação)"
+      },
+      {
+        "nome": "Dir. Tributário",
+        "minutos": 60,
+        "assunto": "ICMS — Lei Seca (LC 87/96) + Jurisprudência STF (Tema 69, DIFAL, ICMS-ST)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 8 — 21/07)"
+      }
+    ]
+  },
+  {
+    "dia": 12,
+    "data": "25/07/2026",
+    "dia_semana": "Sábado",
+    "tempo_total": "4h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Administrativo",
+        "minutos": 120,
+        "assunto": "Improbidade administrativa — Lei Seca (Lei 8.429/92 + Lei 14.230/21) + Jurisprudência"
+      },
+      {
+        "nome": "Dir. Empresarial",
+        "minutos": 90,
+        "assunto": "Sociedade anônima — Lei Seca (Lei 6.404/76) + Doutrina (acordo de acionistas)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 9 — 22/07)"
+      }
+    ]
+  },
+  {
+    "dia": 13,
+    "data": "26/07/2026",
+    "dia_semana": "Domingo",
+    "tempo_total": "4h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Consumidor",
+        "minutos": 105,
+        "assunto": "Defesa dos Direitos do Consumidor em Juízo — Lei Seca (arts. 81-104 CDC)"
+      },
+      {
+        "nome": "ECA",
+        "minutos": 105,
+        "assunto": "Adoção — Lei Seca (arts. 39-52 ECA) + Jurisprudência (irrevogabilidade)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 10 — 23/07)"
+      }
+    ]
+  },
+  {
+    "dia": 14,
+    "data": "27/07/2026",
+    "dia_semana": "Segunda-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Direito Civil",
+        "minutos": 90,
+        "assunto": "Regimes de bens (Família) — Lei Seca + Súmula 377 STF + Jurisprudência STJ"
+      },
+      {
+        "nome": "Dir. Eleitoral",
+        "minutos": 60,
+        "assunto": "Registro de candidatos — Lei Seca (LC 64/90 + Lei 9.504/97) + Jurisprudência"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 11 — 24/07)"
+      }
+    ]
+  },
+  {
+    "dia": 15,
+    "data": "28/07/2026",
+    "dia_semana": "Terça-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Processo Civil",
+        "minutos": 90,
+        "assunto": "Cumprimento de Sentença — Lei Seca (arts. 513-538 CPC) + Jurisprudência (Fazenda Pública)"
+      },
+      {
+        "nome": "Dir. Ambiental",
+        "minutos": 60,
+        "assunto": "Competência legislativa ambiental — Lei Seca (arts. 23-24 CF + LC 140/11)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 12 — 25/07)"
+      }
+    ]
+  },
+  {
+    "dia": 16,
+    "data": "29/07/2026",
+    "dia_semana": "Quarta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Direito Penal",
+        "minutos": 90,
+        "assunto": "Crimes contra a dignidade sexual — Lei Seca (arts. 213-234 CP) + Súmula 593 STJ"
+      },
+      {
+        "nome": "Dir. Humanos",
+        "minutos": 60,
+        "assunto": "Sistema global de proteção (ONU) — Lei Seca (DUDH, PIDCP, PIDESC)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 13 — 26/07) | **T+15** (ref. Dia 1 — 14/07)"
+      }
+    ]
+  },
+  {
+    "dia": 17,
+    "data": "30/07/2026",
+    "dia_semana": "Quinta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Processo Penal",
+        "minutos": 90,
+        "assunto": "Recursos em Geral — Lei Seca (arts. 574-638 CPP) + Jurisprudência (fungibilidade)"
+      },
+      {
+        "nome": "Form. Humanística",
+        "minutos": 60,
+        "assunto": "Estatuto da Magistratura (LOMAN) — Lei Seca (LC 35/79 + art. 93 CF)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 14 — 27/07) | **T+15** (ref. Dia 2 — 15/07)"
+      }
+    ]
+  },
+  {
+    "dia": 18,
+    "data": "31/07/2026",
+    "dia_semana": "Sexta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Constitucional",
+        "minutos": 90,
+        "assunto": "Direitos sociais — Lei Seca (art. 6º-11 CF) + Jurisprudência (judicialização da saúde)"
+      },
+      {
+        "nome": "Dir. Tributário",
+        "minutos": 60,
+        "assunto": "IPVA — Lei Seca (art. 155, III CF) + Jurisprudência (leasing, alienação fiduciária)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 15 — 28/07) | **T+15** (ref. Dia 3 — 16/07)"
+      }
+    ]
+  },
+  {
+    "dia": 19,
+    "data": "01/08/2026",
+    "dia_semana": "Sábado",
+    "tempo_total": "4h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Administrativo",
+        "minutos": 120,
+        "assunto": "Licitação — Lei Seca (Lei 14.133/21) + Doutrina (inexigibilidade, dispensa)"
+      },
+      {
+        "nome": "Dir. Empresarial",
+        "minutos": 90,
+        "assunto": "Falência — Lei Seca (Lei 11.101/05) + Jurisprudência (classificação de créditos)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 16 — 29/07) | **T+15** (ref. Dia 4 — 17/07)"
+      }
+    ]
+  },
+  {
+    "dia": 20,
+    "data": "02/08/2026",
+    "dia_semana": "Domingo",
+    "tempo_total": "4h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Consumidor",
+        "minutos": 105,
+        "assunto": "Relação de Consumo — Doutrina (finalista mitigada, bystander) + Jurisprudência STJ"
+      },
+      {
+        "nome": "ECA",
+        "minutos": 105,
+        "assunto": "Infrações Administrativas — Lei Seca (arts. 245-258 ECA) + Jurisprudência"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 17 — 30/07) | **T+15** (ref. Dia 5 — 18/07)"
+      }
+    ]
+  },
+  {
+    "dia": 21,
+    "data": "03/08/2026",
+    "dia_semana": "Segunda-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Direito Civil",
+        "minutos": 90,
+        "assunto": "Responsabilidade civil — Doutrina (nexo causal, perda de uma chance) + Jurisprudência"
+      },
+      {
+        "nome": "Dir. Eleitoral",
+        "minutos": 60,
+        "assunto": "Propaganda eleitoral — Lei Seca (arts. 36-41 Lei 9.504/97) + Resoluções TSE"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 18 — 31/07) | **T+15** (ref. Dia 6 — 19/07)"
+      }
+    ]
+  },
+  {
+    "dia": 22,
+    "data": "04/08/2026",
+    "dia_semana": "Terça-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Processo Civil",
+        "minutos": 90,
+        "assunto": "Litisconsórcio — Lei Seca (arts. 113-118 CPC) + Doutrina (necessário vs. unitário)"
+      },
+      {
+        "nome": "Dir. Ambiental",
+        "minutos": 60,
+        "assunto": "Lei de Crimes Ambientais — Lei Seca (Lei 9.605/98) + Jurisprudência"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 19 — 01/08) | **T+15** (ref. Dia 7 — 20/07)"
+      }
+    ]
+  },
+  {
+    "dia": 23,
+    "data": "05/08/2026",
+    "dia_semana": "Quarta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Direito Penal",
+        "minutos": 90,
+        "assunto": "Violência doméstica e familiar — Lei Seca (Lei 11.340/06) + Jurisprudência"
+      },
+      {
+        "nome": "Dir. Humanos",
+        "minutos": 60,
+        "assunto": "Relação direito internacional e brasileiro — Doutrina + Jurisprudência STF (status supralegal)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 20 — 02/08) | **T+15** (ref. Dia 8 — 21/07)"
+      }
+    ]
+  },
+  {
+    "dia": 24,
+    "data": "06/08/2026",
+    "dia_semana": "Quinta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Processo Penal",
+        "minutos": 90,
+        "assunto": "Ação Penal — Lei Seca + Jurisprudência (justa causa, trancamento)"
+      },
+      {
+        "nome": "Form. Humanística",
+        "minutos": 60,
+        "assunto": "Direito da Antidiscriminação — Doutrina (discriminação direta/indireta)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 21 — 03/08) | **T+15** (ref. Dia 9 — 22/07)"
+      }
+    ]
+  },
+  {
+    "dia": 25,
+    "data": "07/08/2026",
+    "dia_semana": "Sexta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Constitucional",
+        "minutos": 90,
+        "assunto": "Processo legislativo — Lei Seca (arts. 59-69 CF) + Jurisprudência (vício de iniciativa)"
+      },
+      {
+        "nome": "Dir. Tributário",
+        "minutos": 60,
+        "assunto": "Execução fiscal — Lei Seca (Lei 6.830/80) + Jurisprudência (Tema 1184 STF, prescrição)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 22 — 04/08) | **T+15** (ref. Dia 10 — 23/07)"
+      }
+    ]
+  },
+  {
+    "dia": 26,
+    "data": "08/08/2026",
+    "dia_semana": "Sábado",
+    "tempo_total": "4h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Administrativo",
+        "minutos": 120,
+        "assunto": "Responsabilidade civil do Estado — Doutrina (risco administrativo) + Jurisprudência STF"
+      },
+      {
+        "nome": "Dir. Empresarial",
+        "minutos": 90,
+        "assunto": "Sociedade limitada — Lei Seca (arts. 1.052-1.087 CC) + Doutrina (exclusão extrajudicial)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 23 — 05/08) | **T+15** (ref. Dia 11 — 24/07)"
+      }
+    ]
+  },
+  {
+    "dia": 27,
+    "data": "09/08/2026",
+    "dia_semana": "Domingo",
+    "tempo_total": "4h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Consumidor",
+        "minutos": 105,
+        "assunto": "Planos de saúde — Lei Seca (Lei 9.656/98) + Jurisprudência STJ"
+      },
+      {
+        "nome": "ECA",
+        "minutos": 105,
+        "assunto": "Depoimento especial e Escuta especializada — Lei Seca (Lei 13.431/17) + Doutrina"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 24 — 06/08) | **T+15** (ref. Dia 12 — 25/07)"
+      }
+    ]
+  },
+  {
+    "dia": 28,
+    "data": "10/08/2026",
+    "dia_semana": "Segunda-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Direito Civil",
+        "minutos": 90,
+        "assunto": "Prescrição e decadência — Lei Seca (arts. 205-206 CC) + Doutrina (actio nata subjetiva)"
+      },
+      {
+        "nome": "Dir. Eleitoral",
+        "minutos": 60,
+        "assunto": "Direitos políticos — Lei Seca (art. 14 CF + LC 64/90) + Jurisprudência"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 25 — 07/08) | **T+15** (ref. Dia 13 — 26/07)"
+      }
+    ]
+  },
+  {
+    "dia": 29,
+    "data": "11/08/2026",
+    "dia_semana": "Terça-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Processo Civil",
+        "minutos": 90,
+        "assunto": "Mandado de segurança — Lei Seca (Lei 12.016/09) + Súmulas STF/STJ"
+      },
+      {
+        "nome": "Dir. Ambiental",
+        "minutos": 60,
+        "assunto": "Licenciamento Ambiental — Lei Seca (LP/LI/LO) + Doutrina"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 26 — 08/08) | **T+15** (ref. Dia 14 — 27/07)"
+      }
+    ]
+  },
+  {
+    "dia": 30,
+    "data": "12/08/2026",
+    "dia_semana": "Quarta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Direito Penal",
+        "minutos": 90,
+        "assunto": "Circunstâncias judiciais (dosimetria) — Doutrina + Jurisprudência STJ"
+      },
+      {
+        "nome": "Dir. Humanos",
+        "minutos": 60,
+        "assunto": "Controle de convencionalidade — Doutrina (duplo controle) + Jurisprudência"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 27 — 09/08) | **T+15** (ref. Dia 15 — 28/07)"
+      }
+    ]
+  },
+  {
+    "dia": 31,
+    "data": "13/08/2026",
+    "dia_semana": "Quinta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Processo Penal",
+        "minutos": 90,
+        "assunto": "Colaboração premiada — Doutrina + Lei Seca (Lei 12.850/13) + Jurisprudência"
+      },
+      {
+        "nome": "Form. Humanística",
+        "minutos": 60,
+        "assunto": "Direito Digital e Inovação — Doutrina + Resoluções CNJ (IA)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 28 — 10/08) | **T+15** (ref. Dia 16 — 29/07)"
+      }
+    ]
+  },
+  {
+    "dia": 32,
+    "data": "14/08/2026",
+    "dia_semana": "Sexta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Constitucional",
+        "minutos": 90,
+        "assunto": "Medida Provisória — Lei Seca (art. 62 CF) + Jurisprudência (pressupostos, reedição)"
+      },
+      {
+        "nome": "Dir. Tributário",
+        "minutos": 60,
+        "assunto": "Prescrição tributária — Lei Seca (arts. 174 CTN + LC 118/05) + Jurisprudência STJ"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 29 — 11/08) | **T+15** (ref. Dia 17 — 30/07)"
+      }
+    ]
+  },
+  {
+    "dia": 33,
+    "data": "15/08/2026",
+    "dia_semana": "Sábado",
+    "tempo_total": "4h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Administrativo",
+        "minutos": 120,
+        "assunto": "Desapropriação — Lei Seca (DL 3.365/41, LC 76/93) + Jurisprudência"
+      },
+      {
+        "nome": "Dir. Empresarial",
+        "minutos": 90,
+        "assunto": "Propriedade Industrial — Lei Seca (Lei 9.279/96) + Doutrina"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 30 — 12/08) | **T+15** (ref. Dia 18 — 31/07)"
+      }
+    ]
+  },
+  {
+    "dia": 34,
+    "data": "16/08/2026",
+    "dia_semana": "Domingo",
+    "tempo_total": "4h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Consumidor",
+        "minutos": 105,
+        "assunto": "Superendividamento — Lei Seca (Lei 14.181/2021) + Doutrina"
+      },
+      {
+        "nome": "ECA",
+        "minutos": 105,
+        "assunto": "Autorização de viagem — Lei Seca (arts. 83-85 ECA) + Jurisprudência"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 31 — 13/08) | **T+15** (ref. Dia 19 — 01/08)"
+      }
+    ]
+  },
+  {
+    "dia": 35,
+    "data": "17/08/2026",
+    "dia_semana": "Segunda-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Direito Civil",
+        "minutos": 90,
+        "assunto": "Sucessão legítima — Lei Seca (art. 1.829 CC) + Cálculo de quinhões"
+      },
+      {
+        "nome": "Dir. Eleitoral",
+        "minutos": 60,
+        "assunto": "Condutas vedadas aos agentes públicos — Lei Seca (art. 73 Lei 9.504/97)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 32 — 14/08) | **T+15** (ref. Dia 20 — 02/08)"
+      }
+    ]
+  },
+  {
+    "dia": 36,
+    "data": "18/08/2026",
+    "dia_semana": "Terça-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Processo Civil",
+        "minutos": 90,
+        "assunto": "Petição inicial — Lei Seca (arts. 318-331 CPC) + Jurisprudência (emenda, indeferimento)"
+      },
+      {
+        "nome": "Dir. Ambiental",
+        "minutos": 60,
+        "assunto": "LC 140/2011 (Cooperação federativa) — Lei Seca + Doutrina"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 33 — 15/08) | **T+15** (ref. Dia 21 — 03/08)"
+      }
+    ]
+  },
+  {
+    "dia": 37,
+    "data": "19/08/2026",
+    "dia_semana": "Quarta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Direito Penal",
+        "minutos": 90,
+        "assunto": "Lei de Drogas — Lei Seca (Lei 11.343/06) + Jurisprudência STF (Tema 506)"
+      },
+      {
+        "nome": "Dir. Humanos",
+        "minutos": 60,
+        "assunto": "Convenção sobre Direitos das Pessoas com Deficiência — Lei Seca + Doutrina"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 34 — 16/08) | **T+15** (ref. Dia 22 — 04/08)"
+      }
+    ]
+  },
+  {
+    "dia": 38,
+    "data": "20/08/2026",
+    "dia_semana": "Quinta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Processo Penal",
+        "minutos": 90,
+        "assunto": "Competência — Lei Seca + Súmulas (704 STF, 122 STJ) + Jurisprudência"
+      },
+      {
+        "nome": "Form. Humanística",
+        "minutos": 60,
+        "assunto": "Pragmatismo, AED e Economia Comportamental — Doutrina (heurísticas, vieses cognitivos)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 35 — 17/08) | **T+15** (ref. Dia 23 — 05/08)"
+      }
+    ]
+  },
+  {
+    "dia": 39,
+    "data": "21/08/2026",
+    "dia_semana": "Sexta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Constitucional",
+        "minutos": 90,
+        "assunto": "Intervenção nos Estados e Municípios — Lei Seca (arts. 34-36 CF) + Jurisprudência"
+      },
+      {
+        "nome": "Dir. Tributário",
+        "minutos": 60,
+        "assunto": "Responsabilidade tributária — Lei Seca (arts. 128-138 CTN) + Jurisprudência"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 36 — 18/08) | **T+15** (ref. Dia 24 — 06/08)"
+      }
+    ]
+  },
+  {
+    "dia": 40,
+    "data": "22/08/2026",
+    "dia_semana": "Sábado",
+    "tempo_total": "4h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Administrativo",
+        "minutos": 120,
+        "assunto": "Concessões e Permissões — Lei Seca (Lei 8.987/95) + Doutrina (caducidade)"
+      },
+      {
+        "nome": "Dir. Empresarial",
+        "minutos": 90,
+        "assunto": "Recuperação extrajudicial — Lei Seca (Lei 11.101/05 — art. 163) + Doutrina"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 37 — 19/08) | **T+15** (ref. Dia 25 — 07/08)"
+      }
+    ]
+  },
+  {
+    "dia": 41,
+    "data": "23/08/2026",
+    "dia_semana": "Domingo",
+    "tempo_total": "4h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Consumidor",
+        "minutos": 105,
+        "assunto": "Regulamentação de Serviços (ANATEL/ANEEL) — Lei Seca + Jurisprudência"
+      },
+      {
+        "nome": "ECA",
+        "minutos": 105,
+        "assunto": "Conselho Tutelar — Lei Seca (arts. 131-140 ECA) + Doutrina (natureza, atribuições)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 38 — 20/08) | **T+15** (ref. Dia 26 — 08/08)"
+      }
+    ]
+  },
+  {
+    "dia": 42,
+    "data": "24/08/2026",
+    "dia_semana": "Segunda-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Direito Civil",
+        "minutos": 90,
+        "assunto": "Casamento (Família) — Lei Seca + Jurisprudência (divórcio, nulidade/anulabilidade)"
+      },
+      {
+        "nome": "Dir. Eleitoral",
+        "minutos": 60,
+        "assunto": "Competência da Justiça Eleitoral — Lei Seca (art. 121 CF + CE) + Jurisprudência"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 39 — 21/08) | **T+15** (ref. Dia 27 — 09/08)"
+      }
+    ]
+  },
+  {
+    "dia": 43,
+    "data": "25/08/2026",
+    "dia_semana": "Terça-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Processo Civil",
+        "minutos": 90,
+        "assunto": "Juizados Especiais — Lei Seca (Leis 9.099/95 e 12.153/09) + Jurisprudência"
+      },
+      {
+        "nome": "Dir. Ambiental",
+        "minutos": 60,
+        "assunto": "Política Nacional sobre Mudança do Clima — Lei Seca (Lei 12.187/09)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 40 — 22/08) | **T+15** (ref. Dia 28 — 10/08)"
+      }
+    ]
+  },
+  {
+    "dia": 44,
+    "data": "26/08/2026",
+    "dia_semana": "Quarta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Direito Penal",
+        "minutos": 90,
+        "assunto": "Culpabilidade — Doutrina (teoria limitada vs. extremada, actio libera in causa)"
+      },
+      {
+        "nome": "Dir. Humanos",
+        "minutos": 60,
+        "assunto": "Incidente de Deslocamento de Competência (IDC) — Lei Seca (art. 109 §5º CF)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 41 — 23/08) | **T+15** (ref. Dia 29 — 11/08)"
+      }
+    ]
+  },
+  {
+    "dia": 45,
+    "data": "27/08/2026",
+    "dia_semana": "Quinta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Processo Penal",
+        "minutos": 90,
+        "assunto": "ANPP (Acordo de Não Persecução Penal) — Lei Seca (art. 28-A CPP) + Jurisprudência STF"
+      },
+      {
+        "nome": "Form. Humanística",
+        "minutos": 60,
+        "assunto": "Sociologia do Direito — Doutrina (Cappelletti — ondas de acesso à justiça)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 42 — 24/08) | **T+15** (ref. Dia 30 — 12/08)"
+      }
+    ]
+  },
+  {
+    "dia": 46,
+    "data": "28/08/2026",
+    "dia_semana": "Sexta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Constitucional",
+        "minutos": 90,
+        "assunto": "Direitos políticos — Lei Seca (art. 14-16 CF) + Jurisprudência (inelegibilidade)"
+      },
+      {
+        "nome": "Dir. Tributário",
+        "minutos": 60,
+        "assunto": "Direito financeiro (orçamento) — Lei Seca (arts. 165-169 CF + LRF)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 43 — 25/08) | **T+15** (ref. Dia 31 — 13/08) | **T+45** (ref. Dia 1 — 14/07)"
+      }
+    ]
+  },
+  {
+    "dia": 47,
+    "data": "29/08/2026",
+    "dia_semana": "Sábado",
+    "tempo_total": "4h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Administrativo",
+        "minutos": 120,
+        "assunto": "Controle pelo Tribunal de Contas — Lei Seca (arts. 70-75 CF) + Jurisprudência STF"
+      },
+      {
+        "nome": "Dir. Empresarial",
+        "minutos": 90,
+        "assunto": "Cédula de Produto Rural — Lei Seca (Lei 8.929/94) + Jurisprudência"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 44 — 26/08) | **T+15** (ref. Dia 32 — 14/08) | **T+45** (ref. Dia 2 — 15/07)"
+      }
+    ]
+  },
+  {
+    "dia": 48,
+    "data": "30/08/2026",
+    "dia_semana": "Domingo",
+    "tempo_total": "4h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Consumidor",
+        "minutos": 105,
+        "assunto": "Desconsideração da Personalidade Jurídica — Doutrina (teoria menor — art. 28 CDC)"
+      },
+      {
+        "nome": "ECA",
+        "minutos": 105,
+        "assunto": "Entrega voluntária para adoção — Lei Seca (art. 19-A ECA) + Doutrina (sigilo)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 45 — 27/08) | **T+15** (ref. Dia 33 — 15/08) | **T+45** (ref. Dia 3 — 16/07)"
+      }
+    ]
+  },
+  {
+    "dia": 49,
+    "data": "31/08/2026",
+    "dia_semana": "Segunda-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Direito Civil",
+        "minutos": 90,
+        "assunto": "Fiança (Contratos) — Lei Seca (arts. 818-839 CC) + Súmula 332 STJ"
+      },
+      {
+        "nome": "Dir. Eleitoral",
+        "minutos": 60,
+        "assunto": "Prestação de contas — Lei Seca (Lei 9.504/97) + Jurisprudência"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 46 — 28/08) | **T+15** (ref. Dia 34 — 16/08) | **T+45** (ref. Dia 4 — 17/07)"
+      }
+    ]
+  },
+  {
+    "dia": 50,
+    "data": "01/09/2026",
+    "dia_semana": "Terça-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Processo Civil",
+        "minutos": 90,
+        "assunto": "Competência — Lei Seca (arts. 42-66 CPC) + Jurisprudência (Tema 988 STJ)"
+      },
+      {
+        "nome": "Dir. Ambiental",
+        "minutos": 60,
+        "assunto": "PNRH (Recursos Hídricos) — Lei Seca (Lei 9.433/97) + Doutrina"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 47 — 29/08) | **T+15** (ref. Dia 35 — 17/08) | **T+45** (ref. Dia 5 — 18/07)"
+      }
+    ]
+  },
+  {
+    "dia": 51,
+    "data": "02/09/2026",
+    "dia_semana": "Quarta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Direito Penal",
+        "minutos": 90,
+        "assunto": "Direito Penal Militar — Lei Seca (CPM) + Jurisprudência (competência, Súmula 78 STJ)"
+      },
+      {
+        "nome": "Dir. Humanos",
+        "minutos": 60,
+        "assunto": "Jurisprudência STF em matéria de DH — Jurisprudência (homotransfobia, marco temporal)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 48 — 30/08) | **T+15** (ref. Dia 36 — 18/08) | **T+45** (ref. Dia 6 — 19/07)"
+      }
+    ]
+  },
+  {
+    "dia": 52,
+    "data": "03/09/2026",
+    "dia_semana": "Quinta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Processo Penal",
+        "minutos": 90,
+        "assunto": "Juizados Especiais Criminais — Lei Seca (Lei 9.099/95) + Jurisprudência"
+      },
+      {
+        "nome": "Form. Humanística",
+        "minutos": 60,
+        "assunto": "Agenda 2030 e ODS — Doutrina (Meta 16 — Paz e Justiça) + Resoluções CNJ"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 49 — 31/08) | **T+15** (ref. Dia 37 — 19/08) | **T+45** (ref. Dia 7 — 20/07)"
+      }
+    ]
+  },
+  {
+    "dia": 53,
+    "data": "04/09/2026",
+    "dia_semana": "Sexta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Constitucional",
+        "minutos": 90,
+        "assunto": "Tribunais de Contas — Lei Seca (arts. 70-75 CF) + Jurisprudência STF (Tema 835)"
+      },
+      {
+        "nome": "Dir. Tributário",
+        "minutos": 60,
+        "assunto": "ITCMD — Lei Seca (art. 155, I CF) + Jurisprudência STF (Tema 1214)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 50 — 01/09) | **T+15** (ref. Dia 38 — 20/08) | **T+45** (ref. Dia 8 — 21/07)"
+      }
+    ]
+  },
+  {
+    "dia": 54,
+    "data": "05/09/2026",
+    "dia_semana": "Sábado",
+    "tempo_total": "4h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Administrativo",
+        "minutos": 120,
+        "assunto": "Organização administrativa — Doutrina (descentralização vs. desconcentração)"
+      },
+      {
+        "nome": "Dir. Empresarial",
+        "minutos": 90,
+        "assunto": "Sociedade Cooperativa — Lei Seca (Lei 5.764/71 + arts. 1.093-1.096 CC) + Doutrina"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 51 — 02/09) | **T+15** (ref. Dia 39 — 21/08) | **T+45** (ref. Dia 9 — 22/07)"
+      }
+    ]
+  },
+  {
+    "dia": 55,
+    "data": "06/09/2026",
+    "dia_semana": "Domingo",
+    "tempo_total": "4h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Consumidor",
+        "minutos": 105,
+        "assunto": "Práticas Comerciais Abusivas — Lei Seca (art. 39 CDC) + Jurisprudência (venda casada)"
+      },
+      {
+        "nome": "ECA",
+        "minutos": 105,
+        "assunto": "Direito à Educação — Lei Seca (arts. 53-59 ECA) + Jurisprudência (creche, homeschooling)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 52 — 03/09) | **T+15** (ref. Dia 40 — 22/08) | **T+45** (ref. Dia 10 — 23/07)"
+      }
+    ]
+  },
+  {
+    "dia": 56,
+    "data": "07/09/2026",
+    "dia_semana": "Segunda-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Direito Civil",
+        "minutos": 90,
+        "assunto": "Desconsideração da personalidade jurídica — Doutrina (teoria maior/menor) + Lei Seca"
+      },
+      {
+        "nome": "Dir. Eleitoral",
+        "minutos": 60,
+        "assunto": "Ação de impugnação de mandato eletivo (AIME) — Lei Seca (art. 14 CF) + Doutrina"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 53 — 04/09) | **T+15** (ref. Dia 41 — 23/08) | **T+45** (ref. Dia 11 — 24/07)"
+      }
+    ]
+  },
+  {
+    "dia": 57,
+    "data": "08/09/2026",
+    "dia_semana": "Terça-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Processo Civil",
+        "minutos": 90,
+        "assunto": "Provas (produção e ônus) — Lei Seca + Doutrina (distribuição dinâmica, art. 373 §1º)"
+      },
+      {
+        "nome": "Dir. Ambiental",
+        "minutos": 60,
+        "assunto": "Pagamento por Serviços Ambientais (PSA) — Lei Seca (Lei 14.119/21)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 54 — 05/09) | **T+15** (ref. Dia 42 — 24/08) | **T+45** (ref. Dia 12 — 25/07)"
+      }
+    ]
+  },
+  {
+    "dia": 58,
+    "data": "09/09/2026",
+    "dia_semana": "Quarta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Direito Penal",
+        "minutos": 90,
+        "assunto": "Concurso de pessoas — Doutrina (domínio do fato, autoria colateral) + Lei Seca"
+      },
+      {
+        "nome": "Dir. Humanos",
+        "minutos": 60,
+        "assunto": "Proteção de grupos vulneráveis — Doutrina + Jurisprudência STF (perspectiva de gênero)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 55 — 06/09) | **T+15** (ref. Dia 43 — 25/08) | **T+45** (ref. Dia 13 — 26/07)"
+      }
+    ]
+  },
+  {
+    "dia": 59,
+    "data": "10/09/2026",
+    "dia_semana": "Quinta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Processo Penal",
+        "minutos": 90,
+        "assunto": "Medidas assecuratórias — Lei Seca (arts. 125-144 CPP) + Jurisprudência"
+      },
+      {
+        "nome": "Form. Humanística",
+        "minutos": 60,
+        "assunto": "Judicialização da política — Doutrina (ativismo judicial, autocontenção)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 56 — 07/09) | **T+15** (ref. Dia 44 — 26/08) | **T+45** (ref. Dia 14 — 27/07)"
+      }
+    ]
+  },
+  {
+    "dia": 60,
+    "data": "11/09/2026",
+    "dia_semana": "Sexta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Constitucional",
+        "minutos": 90,
+        "assunto": "Servidores Públicos — Lei Seca (arts. 37-41 CF) + Súmulas Vinculantes"
+      },
+      {
+        "nome": "Dir. Tributário",
+        "minutos": 60,
+        "assunto": "Decadência tributária — Lei Seca (arts. 150 §4º e 173 CTN) + Jurisprudência"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 57 — 08/09) | **T+15** (ref. Dia 45 — 27/08) | **T+45** (ref. Dia 15 — 28/07)"
+      }
+    ]
+  },
+  {
+    "dia": 61,
+    "data": "12/09/2026",
+    "dia_semana": "Sábado",
+    "tempo_total": "4h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Administrativo",
+        "minutos": 120,
+        "assunto": "Parcerias Público-Privadas — Lei Seca (Lei 11.079/04) + Doutrina"
+      },
+      {
+        "nome": "Dir. Empresarial",
+        "minutos": 90,
+        "assunto": "Protesto — Lei Seca (Lei 9.492/97) + Jurisprudência"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 58 — 09/09) | **T+15** (ref. Dia 46 — 28/08) | **T+45** (ref. Dia 16 — 29/07)"
+      }
+    ]
+  },
+  {
+    "dia": 62,
+    "data": "13/09/2026",
+    "dia_semana": "Domingo",
+    "tempo_total": "4h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Consumidor",
+        "minutos": 105,
+        "assunto": "Cadastro Positivo — Lei Seca (Lei 12.414/11) + Jurisprudência (abertura automática)"
+      },
+      {
+        "nome": "ECA",
+        "minutos": 105,
+        "assunto": "LOAS (Assistência Social) — Lei Seca (Lei 8.742/93) + Doutrina (programas socioassistenciais)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 59 — 10/09) | **T+15** (ref. Dia 47 — 29/08) | **T+45** (ref. Dia 17 — 30/07)"
+      }
+    ]
+  },
+  {
+    "dia": 63,
+    "data": "14/09/2026",
+    "dia_semana": "Segunda-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Direito Civil",
+        "minutos": 90,
+        "assunto": "Simulação (Fatos jurídicos) — Lei Seca (art. 167 CC) + Doutrina (nulidade absoluta)"
+      },
+      {
+        "nome": "Dir. Eleitoral",
+        "minutos": 60,
+        "assunto": "Captação ilícita de recursos — Lei Seca + Jurisprudência"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 60 — 11/09) | **T+15** (ref. Dia 48 — 30/08) | **T+45** (ref. Dia 18 — 31/07)"
+      }
+    ]
+  },
+  {
+    "dia": 64,
+    "data": "15/09/2026",
+    "dia_semana": "Terça-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Processo Civil",
+        "minutos": 90,
+        "assunto": "Agravo de instrumento — Lei Seca (art. 1.015 CPC) + Jurisprudência (Tema 988 STJ)"
+      },
+      {
+        "nome": "Dir. Ambiental",
+        "minutos": 60,
+        "assunto": "PNRS (Resíduos Sólidos) — Lei Seca (Lei 12.305/10) + Jurisprudência"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 61 — 12/09) | **T+15** (ref. Dia 49 — 31/08) | **T+45** (ref. Dia 19 — 01/08)"
+      }
+    ]
+  },
+  {
+    "dia": 65,
+    "data": "16/09/2026",
+    "dia_semana": "Quarta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Direito Penal",
+        "minutos": 90,
+        "assunto": "Fixação da pena (sistema trifásico) — Doutrina + Jurisprudência"
+      },
+      {
+        "nome": "Dir. Humanos",
+        "minutos": 60,
+        "assunto": "TPI e Estatuto de Roma — Lei Seca (complementaridade, crimes de competência)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 62 — 13/09) | **T+15** (ref. Dia 50 — 01/09) | **T+45** (ref. Dia 20 — 02/08)"
+      }
+    ]
+  },
+  {
+    "dia": 66,
+    "data": "17/09/2026",
+    "dia_semana": "Quinta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Processo Penal",
+        "minutos": 90,
+        "assunto": "Tribunal do Júri — Lei Seca (arts. 406-497 CPP) + Jurisprudência STF (Tema 1068)"
+      },
+      {
+        "nome": "Form. Humanística",
+        "minutos": 60,
+        "assunto": "O conceito de Justiça / Filosofia — Doutrina (Rawls, Habermas, Kelsen, Dworkin)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 63 — 14/09) | **T+15** (ref. Dia 51 — 02/09) | **T+45** (ref. Dia 21 — 03/08)"
+      }
+    ]
+  },
+  {
+    "dia": 67,
+    "data": "18/09/2026",
+    "dia_semana": "Sexta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Constitucional",
+        "minutos": 90,
+        "assunto": "Interpretação da Constituição — Doutrina (Häberle, derrotabilidade, backlash)"
+      },
+      {
+        "nome": "Dir. Tributário",
+        "minutos": 60,
+        "assunto": "Denúncia espontânea — Lei Seca (art. 138 CTN) + Jurisprudência STJ"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 64 — 15/09) | **T+15** (ref. Dia 52 — 03/09) | **T+45** (ref. Dia 22 — 04/08)"
+      }
+    ]
+  },
+  {
+    "dia": 68,
+    "data": "19/09/2026",
+    "dia_semana": "Sábado",
+    "tempo_total": "4h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Administrativo",
+        "minutos": 120,
+        "assunto": "Parcerias com o terceiro setor — Lei Seca (Lei 13.019/14 — MROSC) + Doutrina"
+      },
+      {
+        "nome": "Dir. Empresarial",
+        "minutos": 90,
+        "assunto": "Desconsideração da PJ / Cheque / Estabelecimento — Lei Seca + Jurisprudência"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 65 — 16/09) | **T+15** (ref. Dia 53 — 04/09) | **T+45** (ref. Dia 23 — 05/08)"
+      }
+    ]
+  },
+  {
+    "dia": 69,
+    "data": "20/09/2026",
+    "dia_semana": "Domingo",
+    "tempo_total": "4h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Consumidor",
+        "minutos": 105,
+        "assunto": "Sanções administrativas — Lei Seca (arts. 55-60 CDC) + Jurisprudência (Súmula 675 STJ)"
+      },
+      {
+        "nome": "ECA",
+        "minutos": 105,
+        "assunto": "Acolhimento institucional e familiar — Lei Seca (arts. 92-102 ECA) + Doutrina"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 66 — 17/09) | **T+15** (ref. Dia 54 — 05/09) | **T+45** (ref. Dia 24 — 06/08)"
+      }
+    ]
+  },
+  {
+    "dia": 70,
+    "data": "21/09/2026",
+    "dia_semana": "Segunda-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Direito Civil",
+        "minutos": 90,
+        "assunto": "Usucapião (Propriedade) — Lei Seca (modalidades) + Jurisprudência"
+      },
+      {
+        "nome": "Dir. Eleitoral",
+        "minutos": 60,
+        "assunto": "Alistamento e Poder normativo do TSE — Lei Seca (CE) + Doutrina"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 67 — 18/09) | **T+15** (ref. Dia 55 — 06/09) | **T+45** (ref. Dia 25 — 07/08)"
+      }
+    ]
+  },
+  {
+    "dia": 71,
+    "data": "22/09/2026",
+    "dia_semana": "Terça-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Processo Civil",
+        "minutos": 90,
+        "assunto": "Revisão Ouro: Procedimentos Especiais e Ações Possessórias"
+      },
+      {
+        "nome": "Dir. Ambiental",
+        "minutos": 60,
+        "assunto": "Revisão Ouro: SNUC e Princípios do Direito Ambiental"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 68 — 19/09) | **T+15** (ref. Dia 56 — 07/09) | **T+45** (ref. Dia 26 — 08/08)"
+      }
+    ]
+  },
+  {
+    "dia": 72,
+    "data": "23/09/2026",
+    "dia_semana": "Quarta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Direito Penal",
+        "minutos": 90,
+        "assunto": "Revisão Ouro: Erro de tipo e Erro de proibição + Legislação Extravagante"
+      },
+      {
+        "nome": "Dir. Humanos",
+        "minutos": 60,
+        "assunto": "Revisão Ouro: Estatuto do Refugiado e Lei de Migração"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 69 — 20/09) | **T+15** (ref. Dia 57 — 08/09) | **T+45** (ref. Dia 27 — 09/08)"
+      }
+    ]
+  },
+  {
+    "dia": 73,
+    "data": "24/09/2026",
+    "dia_semana": "Quinta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Processo Penal",
+        "minutos": 90,
+        "assunto": "Revisão Ouro: Nulidades no Processo Penal (Súmulas e Princípios)"
+      },
+      {
+        "nome": "Form. Humanística",
+        "minutos": 60,
+        "assunto": "Revisão Ouro: Princípios de Bangalore e Ética da Magistratura"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 70 — 21/09) | **T+15** (ref. Dia 58 — 09/09) | **T+45** (ref. Dia 28 — 10/08)"
+      }
+    ]
+  },
+  {
+    "dia": 74,
+    "data": "25/09/2026",
+    "dia_semana": "Sexta-feira",
+    "tempo_total": "3h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Constitucional",
+        "minutos": 90,
+        "assunto": "Revisão Ouro: Imunidades Parlamentares e Poder Judiciário (CNJ e Estrutura)"
+      },
+      {
+        "nome": "Dir. Tributário",
+        "minutos": 60,
+        "assunto": "Revisão Ouro: Princípios Tributários Constitucionais e Tributos Municipais"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 71 — 22/09) | **T+15** (ref. Dia 59 — 10/09) | **T+45** (ref. Dia 29 — 11/08)"
+      }
+    ]
+  },
+  {
+    "dia": 75,
+    "data": "26/09/2026",
+    "dia_semana": "Sábado",
+    "tempo_total": "4h",
+    "disciplinas": [
+      {
+        "nome": "Dir. Administrativo",
+        "minutos": 120,
+        "assunto": "Revisão Ouro: Atos Administrativos (Atributos, Anulação e Revogação)"
+      },
+      {
+        "nome": "Dir. Empresarial",
+        "minutos": 90,
+        "assunto": "Revisão Ouro: Teoria Geral dos Títulos de Crédito (Endosso, Aval e Ação Cambial)"
+      },
+      {
+        "nome": "Revisão Espaçada",
+        "minutos": 30,
+        "assunto": "**T+3** (ref. Dia 72 — 23/09) | **T+15** (ref. Dia 60 — 11/09) | **T+45** (ref. Dia 30 — 12/08)"
+      }
+    ]
+  }
+]
