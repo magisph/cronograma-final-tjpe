@@ -11,7 +11,7 @@ const firebaseConfig = {
   appId: import.meta.env.VITE_FIREBASE_APP_ID
 };
 
-let app;
+let app: ReturnType<typeof initializeApp> | undefined;
 let auth: ReturnType<typeof getAuth> | null = null;
 let db: ReturnType<typeof getFirestore> | null = null;
 const isFirebaseConfigured = Boolean(firebaseConfig.apiKey && firebaseConfig.projectId);

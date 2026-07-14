@@ -25,26 +25,25 @@ export const useProgressStore = create<ProgressState>()(
         userId: null,
 
         toggleTask: (dayId, taskId, completed) => {
-          set((state) => {
-            const newTasks = {
-              ...state.completedTasks,
-              [dayId]: {
-                ...(state.completedTasks[dayId] || {}),
-                [taskId]: completed
-              }
-            };
-
-            // If Firebase is configured and user is logged in, sync to Firestore
-            const { userId } = get();
-            if (isFirebaseConfigured && userId && db) {
-              setDoc(doc(db, 'userProgress', userId), { completedTasks: newTasks }, { merge: true })
-                .catch((error) => {
-                  console.error("Error syncing to Firestore:", error);
-                });
+          const state = get();
+          const newTasks = {
+            ...state.completedTasks,
+            [dayId]: {
+              ...(state.completedTasks[dayId] || {}),
+              [taskId]: completed
             }
+          };
 
-            return { completedTasks: newTasks };
-          });
+          set({ completedTasks: newTasks });
+
+          // If Firebase is configured and user is logged in, sync to Firestore
+          const { userId } = get();
+          if (isFirebaseConfigured && userId && db) {
+            setDoc(doc(db, 'userProgress', userId), { completedTasks: newTasks }, { merge: true })
+              .catch((error) => {
+                console.error("Error syncing to Firestore:", error);
+              });
+          }
         },
 
         setTasks: (tasks) => {
@@ -68,17 +67,15 @@ export const useProgressStore = create<ProgressState>()(
                   if (data && data.completedTasks) {
                     const remoteTasks = data.completedTasks;
                     
-                    set((state) => {
-                       const localTasks = state.completedTasks;
-                       const merged: Record<string, Record<string, boolean>> = { ...localTasks };
-                       
-                       for (const dayId in remoteTasks) {
-                         merged[dayId] = { ...(merged[dayId] || {}), ...remoteTasks[dayId] };
-                       }
-                       
-                       setDoc(docRef, { completedTasks: merged }, { merge: true }).catch(console.error);
-                       return { completedTasks: merged };
-                    });
+                    const localTasks = get().completedTasks;
+                    const merged: Record<string, Record<string, boolean>> = { ...localTasks };
+                    
+                    for (const dayId in remoteTasks) {
+                      merged[dayId] = { ...(merged[dayId] || {}), ...remoteTasks[dayId] };
+                    }
+                    
+                    set({ completedTasks: merged });
+                    setDoc(docRef, { completedTasks: merged }, { merge: true }).catch(console.error);
                   }
                 } else {
                   // doc doesn't exist, create it with local state

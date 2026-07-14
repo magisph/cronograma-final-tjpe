@@ -6,7 +6,7 @@ import { signInAnonymously } from 'firebase/auth';
 
 // Mock firebase auth and doc methods
 vi.mock('../lib/firebase', () => ({
-  isFirebaseConfigured: false,
+  isFirebaseConfigured: true,
   auth: {},
   db: {}
 }));
@@ -60,9 +60,7 @@ describe('useProgressStore', () => {
   });
   
   it('calls signInAnonymously if Firebase is configured but user is not logged in', () => {
-    // Override mock to simulate firebase being configured
-    // Since it's imported, we can temporarily mutate it if possible, or redefine mock
-    Object.defineProperty(firebaseLib, 'isFirebaseConfigured', { value: true });
+    // Firebase is mocked as configured globally for this test suite
     
     useProgressStore.getState().initializeFirebaseSync();
     
