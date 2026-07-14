@@ -41,8 +41,8 @@ def parse_cronograma(md_path, json_path):
             if m:
                 minutos = int(m.group(1))
             
-            # Clean prefix using unicode escapes to avoid mojibake in editors
-            nome = prefix.replace('\u2460', '').replace('\u2461', '').replace('\U0001f504', '').strip()
+            # Clean prefix using regex to remove bullet numbers/icons
+            nome = re.sub(r'^[^\w]+', '', prefix).strip()
             
             disciplinas.append({
                 "nome": nome,
@@ -63,8 +63,9 @@ def parse_cronograma(md_path, json_path):
         json.dump(parsed_days, f, ensure_ascii=False, indent=2)
 
 if __name__ == '__main__':
-    md_file = sys.argv[1] if len(sys.argv) > 1 else '../Cronograma_75_Dias.md'
-    json_file = sys.argv[2] if len(sys.argv) > 2 else 'src/data/cronograma.json'
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    md_file = sys.argv[1] if len(sys.argv) > 1 else os.path.join(base_dir, '..', 'Cronograma_75_Dias.md')
+    json_file = sys.argv[2] if len(sys.argv) > 2 else os.path.join(base_dir, 'src', 'data', 'cronograma.json')
     
     parse_cronograma(md_file, json_file)
     print(f"Parsed cronograma from {md_file} to {json_file}")
