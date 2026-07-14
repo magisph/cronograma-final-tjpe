@@ -1,11 +1,15 @@
 import { ReactNode } from 'react';
-import { Home, History, Settings } from 'lucide-react';
+import { Calendar, TrendingUp } from 'lucide-react';
+
+export type TabType = 'daily' | 'dashboard';
 
 interface AppLayoutProps {
   children: ReactNode;
+  currentTab: TabType;
+  onChangeTab: (tab: TabType) => void;
 }
 
-export function AppLayout({ children }: AppLayoutProps) {
+export function AppLayout({ children, currentTab, onChangeTab }: AppLayoutProps) {
   return (
     <div className="flex flex-col md:flex-row h-screen w-full bg-gray-50 text-gray-900 overflow-hidden">
       {/* Content Area */}
@@ -25,22 +29,31 @@ export function AppLayout({ children }: AppLayoutProps) {
         </div>
 
         <div className="flex md:flex-col justify-around md:justify-start w-full md:w-auto h-full md:p-4 gap-2">
-          {/* Active Link Example */}
-          <a href="#" className="flex flex-col md:flex-row items-center gap-1 md:gap-3 p-2 md:p-3 text-purple-600 bg-purple-50 md:rounded-lg rounded-none w-full justify-center md:justify-start">
-            <Home size={24} />
-            <span className="text-xs md:text-sm font-medium">Home</span>
-          </a>
+          {/* Daily Link */}
+          <button 
+            onClick={() => onChangeTab('daily')}
+            className={`flex flex-col md:flex-row items-center gap-1 md:gap-3 p-2 md:p-3 md:rounded-lg rounded-none w-full justify-center md:justify-start transition-colors ${
+              currentTab === 'daily' 
+                ? 'text-purple-600 bg-purple-50' 
+                : 'text-gray-500 hover:text-purple-600 hover:bg-purple-50'
+            }`}
+          >
+            <Calendar size={24} />
+            <span className="text-xs md:text-sm font-medium">Hoje</span>
+          </button>
 
-          {/* Inactive Links */}
-          <a href="#" className="flex flex-col md:flex-row items-center gap-1 md:gap-3 p-2 md:p-3 text-gray-500 hover:text-purple-600 hover:bg-purple-50 md:rounded-lg rounded-none w-full justify-center md:justify-start transition-colors">
-            <History size={24} />
-            <span className="text-xs md:text-sm font-medium">Histórico</span>
-          </a>
-
-          <a href="#" className="flex flex-col md:flex-row items-center gap-1 md:gap-3 p-2 md:p-3 text-gray-500 hover:text-purple-600 hover:bg-purple-50 md:rounded-lg rounded-none w-full justify-center md:justify-start transition-colors">
-            <Settings size={24} />
-            <span className="text-xs md:text-sm font-medium">Ajustes</span>
-          </a>
+          {/* Dashboard Link */}
+          <button 
+            onClick={() => onChangeTab('dashboard')}
+            className={`flex flex-col md:flex-row items-center gap-1 md:gap-3 p-2 md:p-3 md:rounded-lg rounded-none w-full justify-center md:justify-start transition-colors ${
+              currentTab === 'dashboard' 
+                ? 'text-purple-600 bg-purple-50' 
+                : 'text-gray-500 hover:text-purple-600 hover:bg-purple-50'
+            }`}
+          >
+            <TrendingUp size={24} />
+            <span className="text-xs md:text-sm font-medium">Progresso</span>
+          </button>
         </div>
       </nav>
     </div>
