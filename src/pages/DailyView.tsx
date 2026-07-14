@@ -1,4 +1,3 @@
-import { useEffect, useState } from 'react';
 import { useCurrentDay } from '../hooks/useCurrentDay';
 import { useProgressStore } from '../store/useProgressStore';
 import { TaskCheckbox } from '../components/ui/TaskCheckbox';
@@ -15,24 +14,20 @@ export function DailyView() {
   const totalTasks = currentDay.disciplinas.length;
   const completedCount = currentDay.disciplinas.filter((_, idx) => dayTasks[idx.toString()]).length;
 
-  const [prevCompletedCount, setPrevCompletedCount] = useState(completedCount);
-
-  // Confetti effect when completing the last task
-  useEffect(() => {
-    if (completedCount === totalTasks && totalTasks > 0 && prevCompletedCount === totalTasks - 1) {
+  const handleTaskToggle = (taskId: string, checked: boolean) => {
+    const isAlreadyChecked = !!dayTasks[taskId];
+    
+    // Se está marcando como concluído e antes não estava, e com esse clique atinge o total:
+    if (checked && !isAlreadyChecked && completedCount + 1 === totalTasks && totalTasks > 0) {
       confetti({
         particleCount: 100,
         spread: 70,
         origin: { y: 0.6 }
       });
     }
-    setPrevCompletedCount(completedCount);
-  }, [completedCount, totalTasks, prevCompletedCount]);
 
-  // Update prev count if day changes without triggering confetti
-  useEffect(() => {
-    setPrevCompletedCount(completedCount);
-  }, [dayId, completedCount]);
+    toggleTask(dayId, taskId, checked);
+  };
 
   return (
     <div className="p-4 md:p-8 max-w-4xl mx-auto">
@@ -87,7 +82,7 @@ export function DailyView() {
               <TaskCheckbox
                 key={taskId}
                 checked={isChecked}
-                onChange={(checked) => toggleTask(dayId, taskId, checked)}
+                onChange={(checked) => handleTaskToggle(taskId, checked)}
                 label={label}
               />
             );
