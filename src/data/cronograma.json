@@ -6,12 +6,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Processo Civil",
+        "nome": "① Processo Civil",
         "minutos": 90,
         "assunto": "Apelação — Lei Seca (arts. 1.009-1.014 CPC) + Jurisprudência (Teoria da Causa Madura)"
       },
       {
-        "nome": "Dir. Ambiental",
+        "nome": "② Dir. Ambiental",
         "minutos": 60,
         "assunto": "Código Florestal (APP, CAR, Reserva Legal) — Lei Seca (Lei 12.651/12) + Jurisprudência"
       },
@@ -29,12 +29,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Direito Penal",
+        "nome": "① Direito Penal",
         "minutos": 90,
         "assunto": "Crimes contra a administração pública — Lei Seca (arts. 312-327 CP) + Jurisprudência"
       },
       {
-        "nome": "Dir. Humanos",
+        "nome": "② Dir. Humanos",
         "minutos": 60,
         "assunto": "Sistema regional interamericano (SIDH) — Doutrina + Jurisprudência Corte IDH"
       },
@@ -52,12 +52,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Processo Penal",
+        "nome": "① Processo Penal",
         "minutos": 90,
         "assunto": "Prisão e Medidas Cautelares — Lei Seca (arts. 311-316 CPP) + Jurisprudência STF/STJ"
       },
       {
-        "nome": "Form. Humanística",
+        "nome": "② Form. Humanística",
         "minutos": 60,
         "assunto": "Legislação Estadual (Organização Judiciária) — Lei Seca (Código PE)"
       },
@@ -75,12 +75,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Dir. Constitucional",
+        "nome": "① Dir. Constitucional",
         "minutos": 90,
         "assunto": "Repartição de competências — Lei Seca (arts. 21-24, 30 CF) + Jurisprudência STF"
       },
       {
-        "nome": "Dir. Tributário",
+        "nome": "② Dir. Tributário",
         "minutos": 60,
         "assunto": "Imunidades tributárias — Lei Seca (art. 150, VI CF) + Jurisprudência STF"
       },
@@ -98,12 +98,12 @@
     "tempo_total": "4h",
     "disciplinas": [
       {
-        "nome": "Dir. Administrativo",
+        "nome": "① Dir. Administrativo",
         "minutos": 120,
         "assunto": "Servidores Públicos — Lei Seca (Lei 8.112/90 + art. 37-41 CF) + Jurisprudência"
       },
       {
-        "nome": "Dir. Empresarial",
+        "nome": "② Dir. Empresarial",
         "minutos": 90,
         "assunto": "Recuperação judicial — Lei Seca (Lei 11.101/05 atualizada) + Jurisprudência"
       },
@@ -121,12 +121,12 @@
     "tempo_total": "4h",
     "disciplinas": [
       {
-        "nome": "Dir. Consumidor",
+        "nome": "① Dir. Consumidor",
         "minutos": 105,
         "assunto": "Responsabilidade pelo fato do produto/serviço — Lei Seca (arts. 12-17 CDC) + Jurisprudência"
       },
       {
-        "nome": "ECA",
+        "nome": "② ECA",
         "minutos": 105,
         "assunto": "Ato Infracional e Medidas Socioeducativas — Lei Seca (arts. 103-125 ECA + SINASE)"
       },
@@ -144,12 +144,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Direito Civil",
+        "nome": "① Direito Civil",
         "minutos": 90,
         "assunto": "Doação (Contratos em espécie) — Lei Seca (arts. 538-564 CC) + Jurisprudência"
       },
       {
-        "nome": "Dir. Eleitoral",
+        "nome": "② Dir. Eleitoral",
         "minutos": 60,
         "assunto": "Crimes eleitorais — Lei Seca (Código Eleitoral + Lei 9.504/97) + Jurisprudência"
       },
@@ -167,12 +167,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Processo Civil",
+        "nome": "① Processo Civil",
         "minutos": 90,
         "assunto": "Tutelas provisórias — Lei Seca (arts. 294-311 CPC) + Jurisprudência (estabilização)"
       },
       {
-        "nome": "Dir. Ambiental",
+        "nome": "② Dir. Ambiental",
         "minutos": 60,
         "assunto": "Reparação do Dano Ambiental — Jurisprudência STJ/STF (imprescritibilidade)"
       },
@@ -190,12 +190,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Direito Penal",
+        "nome": "① Direito Penal",
         "minutos": 90,
         "assunto": "Crimes contra o patrimônio — Lei Seca + Jurisprudência STF/STJ (Súmulas 442/443/582)"
       },
       {
-        "nome": "Dir. Humanos",
+        "nome": "② Dir. Humanos",
         "minutos": 60,
         "assunto": "Teoria Geral dos Direitos Humanos — Doutrina (gerações/dimensões)"
       },
@@ -213,12 +213,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Processo Penal",
+        "nome": "① Processo Penal",
         "minutos": 90,
         "assunto": "Prova — Doutrina (cadeia de custódia, arts. 158-A a 158-F) + Jurisprudência (reconhecimento)"
       },
       {
-        "nome": "Form. Humanística",
+        "nome": "② Form. Humanística",
         "minutos": 60,
         "assunto": "Lógica do razoável (Recaséns Siches) — Doutrina (lógica formal vs. material)"
       },
@@ -236,12 +236,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Dir. Constitucional",
+        "nome": "① Dir. Constitucional",
         "minutos": 90,
         "assunto": "Controle de constitucionalidade — Doutrina + Lei Seca + Jurisprudência (modulação)"
       },
       {
-        "nome": "Dir. Tributário",
+        "nome": "② Dir. Tributário",
         "minutos": 60,
         "assunto": "ICMS — Lei Seca (LC 87/96) + Jurisprudência STF (Tema 69, DIFAL, ICMS-ST)"
       },
@@ -259,12 +259,12 @@
     "tempo_total": "4h",
     "disciplinas": [
       {
-        "nome": "Dir. Administrativo",
+        "nome": "① Dir. Administrativo",
         "minutos": 120,
         "assunto": "Improbidade administrativa — Lei Seca (Lei 8.429/92 + Lei 14.230/21) + Jurisprudência"
       },
       {
-        "nome": "Dir. Empresarial",
+        "nome": "② Dir. Empresarial",
         "minutos": 90,
         "assunto": "Sociedade anônima — Lei Seca (Lei 6.404/76) + Doutrina (acordo de acionistas)"
       },
@@ -282,12 +282,12 @@
     "tempo_total": "4h",
     "disciplinas": [
       {
-        "nome": "Dir. Consumidor",
+        "nome": "① Dir. Consumidor",
         "minutos": 105,
         "assunto": "Defesa dos Direitos do Consumidor em Juízo — Lei Seca (arts. 81-104 CDC)"
       },
       {
-        "nome": "ECA",
+        "nome": "② ECA",
         "minutos": 105,
         "assunto": "Adoção — Lei Seca (arts. 39-52 ECA) + Jurisprudência (irrevogabilidade)"
       },
@@ -305,12 +305,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Direito Civil",
+        "nome": "① Direito Civil",
         "minutos": 90,
         "assunto": "Regimes de bens (Família) — Lei Seca + Súmula 377 STF + Jurisprudência STJ"
       },
       {
-        "nome": "Dir. Eleitoral",
+        "nome": "② Dir. Eleitoral",
         "minutos": 60,
         "assunto": "Registro de candidatos — Lei Seca (LC 64/90 + Lei 9.504/97) + Jurisprudência"
       },
@@ -328,12 +328,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Processo Civil",
+        "nome": "① Processo Civil",
         "minutos": 90,
         "assunto": "Cumprimento de Sentença — Lei Seca (arts. 513-538 CPC) + Jurisprudência (Fazenda Pública)"
       },
       {
-        "nome": "Dir. Ambiental",
+        "nome": "② Dir. Ambiental",
         "minutos": 60,
         "assunto": "Competência legislativa ambiental — Lei Seca (arts. 23-24 CF + LC 140/11)"
       },
@@ -351,12 +351,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Direito Penal",
+        "nome": "① Direito Penal",
         "minutos": 90,
         "assunto": "Crimes contra a dignidade sexual — Lei Seca (arts. 213-234 CP) + Súmula 593 STJ"
       },
       {
-        "nome": "Dir. Humanos",
+        "nome": "② Dir. Humanos",
         "minutos": 60,
         "assunto": "Sistema global de proteção (ONU) — Lei Seca (DUDH, PIDCP, PIDESC)"
       },
@@ -374,12 +374,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Processo Penal",
+        "nome": "① Processo Penal",
         "minutos": 90,
         "assunto": "Recursos em Geral — Lei Seca (arts. 574-638 CPP) + Jurisprudência (fungibilidade)"
       },
       {
-        "nome": "Form. Humanística",
+        "nome": "② Form. Humanística",
         "minutos": 60,
         "assunto": "Estatuto da Magistratura (LOMAN) — Lei Seca (LC 35/79 + art. 93 CF)"
       },
@@ -397,12 +397,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Dir. Constitucional",
+        "nome": "① Dir. Constitucional",
         "minutos": 90,
         "assunto": "Direitos sociais — Lei Seca (art. 6º-11 CF) + Jurisprudência (judicialização da saúde)"
       },
       {
-        "nome": "Dir. Tributário",
+        "nome": "② Dir. Tributário",
         "minutos": 60,
         "assunto": "IPVA — Lei Seca (art. 155, III CF) + Jurisprudência (leasing, alienação fiduciária)"
       },
@@ -420,12 +420,12 @@
     "tempo_total": "4h",
     "disciplinas": [
       {
-        "nome": "Dir. Administrativo",
+        "nome": "① Dir. Administrativo",
         "minutos": 120,
         "assunto": "Licitação — Lei Seca (Lei 14.133/21) + Doutrina (inexigibilidade, dispensa)"
       },
       {
-        "nome": "Dir. Empresarial",
+        "nome": "② Dir. Empresarial",
         "minutos": 90,
         "assunto": "Falência — Lei Seca (Lei 11.101/05) + Jurisprudência (classificação de créditos)"
       },
@@ -443,12 +443,12 @@
     "tempo_total": "4h",
     "disciplinas": [
       {
-        "nome": "Dir. Consumidor",
+        "nome": "① Dir. Consumidor",
         "minutos": 105,
         "assunto": "Relação de Consumo — Doutrina (finalista mitigada, bystander) + Jurisprudência STJ"
       },
       {
-        "nome": "ECA",
+        "nome": "② ECA",
         "minutos": 105,
         "assunto": "Infrações Administrativas — Lei Seca (arts. 245-258 ECA) + Jurisprudência"
       },
@@ -466,12 +466,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Direito Civil",
+        "nome": "① Direito Civil",
         "minutos": 90,
         "assunto": "Responsabilidade civil — Doutrina (nexo causal, perda de uma chance) + Jurisprudência"
       },
       {
-        "nome": "Dir. Eleitoral",
+        "nome": "② Dir. Eleitoral",
         "minutos": 60,
         "assunto": "Propaganda eleitoral — Lei Seca (arts. 36-41 Lei 9.504/97) + Resoluções TSE"
       },
@@ -489,12 +489,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Processo Civil",
+        "nome": "① Processo Civil",
         "minutos": 90,
         "assunto": "Litisconsórcio — Lei Seca (arts. 113-118 CPC) + Doutrina (necessário vs. unitário)"
       },
       {
-        "nome": "Dir. Ambiental",
+        "nome": "② Dir. Ambiental",
         "minutos": 60,
         "assunto": "Lei de Crimes Ambientais — Lei Seca (Lei 9.605/98) + Jurisprudência"
       },
@@ -512,12 +512,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Direito Penal",
+        "nome": "① Direito Penal",
         "minutos": 90,
         "assunto": "Violência doméstica e familiar — Lei Seca (Lei 11.340/06) + Jurisprudência"
       },
       {
-        "nome": "Dir. Humanos",
+        "nome": "② Dir. Humanos",
         "minutos": 60,
         "assunto": "Relação direito internacional e brasileiro — Doutrina + Jurisprudência STF (status supralegal)"
       },
@@ -535,12 +535,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Processo Penal",
+        "nome": "① Processo Penal",
         "minutos": 90,
         "assunto": "Ação Penal — Lei Seca + Jurisprudência (justa causa, trancamento)"
       },
       {
-        "nome": "Form. Humanística",
+        "nome": "② Form. Humanística",
         "minutos": 60,
         "assunto": "Direito da Antidiscriminação — Doutrina (discriminação direta/indireta)"
       },
@@ -558,12 +558,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Dir. Constitucional",
+        "nome": "① Dir. Constitucional",
         "minutos": 90,
         "assunto": "Processo legislativo — Lei Seca (arts. 59-69 CF) + Jurisprudência (vício de iniciativa)"
       },
       {
-        "nome": "Dir. Tributário",
+        "nome": "② Dir. Tributário",
         "minutos": 60,
         "assunto": "Execução fiscal — Lei Seca (Lei 6.830/80) + Jurisprudência (Tema 1184 STF, prescrição)"
       },
@@ -581,12 +581,12 @@
     "tempo_total": "4h",
     "disciplinas": [
       {
-        "nome": "Dir. Administrativo",
+        "nome": "① Dir. Administrativo",
         "minutos": 120,
         "assunto": "Responsabilidade civil do Estado — Doutrina (risco administrativo) + Jurisprudência STF"
       },
       {
-        "nome": "Dir. Empresarial",
+        "nome": "② Dir. Empresarial",
         "minutos": 90,
         "assunto": "Sociedade limitada — Lei Seca (arts. 1.052-1.087 CC) + Doutrina (exclusão extrajudicial)"
       },
@@ -604,12 +604,12 @@
     "tempo_total": "4h",
     "disciplinas": [
       {
-        "nome": "Dir. Consumidor",
+        "nome": "① Dir. Consumidor",
         "minutos": 105,
         "assunto": "Planos de saúde — Lei Seca (Lei 9.656/98) + Jurisprudência STJ"
       },
       {
-        "nome": "ECA",
+        "nome": "② ECA",
         "minutos": 105,
         "assunto": "Depoimento especial e Escuta especializada — Lei Seca (Lei 13.431/17) + Doutrina"
       },
@@ -627,12 +627,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Direito Civil",
+        "nome": "① Direito Civil",
         "minutos": 90,
         "assunto": "Prescrição e decadência — Lei Seca (arts. 205-206 CC) + Doutrina (actio nata subjetiva)"
       },
       {
-        "nome": "Dir. Eleitoral",
+        "nome": "② Dir. Eleitoral",
         "minutos": 60,
         "assunto": "Direitos políticos — Lei Seca (art. 14 CF + LC 64/90) + Jurisprudência"
       },
@@ -650,12 +650,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Processo Civil",
+        "nome": "① Processo Civil",
         "minutos": 90,
         "assunto": "Mandado de segurança — Lei Seca (Lei 12.016/09) + Súmulas STF/STJ"
       },
       {
-        "nome": "Dir. Ambiental",
+        "nome": "② Dir. Ambiental",
         "minutos": 60,
         "assunto": "Licenciamento Ambiental — Lei Seca (LP/LI/LO) + Doutrina"
       },
@@ -673,12 +673,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Direito Penal",
+        "nome": "① Direito Penal",
         "minutos": 90,
         "assunto": "Circunstâncias judiciais (dosimetria) — Doutrina + Jurisprudência STJ"
       },
       {
-        "nome": "Dir. Humanos",
+        "nome": "② Dir. Humanos",
         "minutos": 60,
         "assunto": "Controle de convencionalidade — Doutrina (duplo controle) + Jurisprudência"
       },
@@ -696,12 +696,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Processo Penal",
+        "nome": "① Processo Penal",
         "minutos": 90,
         "assunto": "Colaboração premiada — Doutrina + Lei Seca (Lei 12.850/13) + Jurisprudência"
       },
       {
-        "nome": "Form. Humanística",
+        "nome": "② Form. Humanística",
         "minutos": 60,
         "assunto": "Direito Digital e Inovação — Doutrina + Resoluções CNJ (IA)"
       },
@@ -719,12 +719,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Dir. Constitucional",
+        "nome": "① Dir. Constitucional",
         "minutos": 90,
         "assunto": "Medida Provisória — Lei Seca (art. 62 CF) + Jurisprudência (pressupostos, reedição)"
       },
       {
-        "nome": "Dir. Tributário",
+        "nome": "② Dir. Tributário",
         "minutos": 60,
         "assunto": "Prescrição tributária — Lei Seca (arts. 174 CTN + LC 118/05) + Jurisprudência STJ"
       },
@@ -742,12 +742,12 @@
     "tempo_total": "4h",
     "disciplinas": [
       {
-        "nome": "Dir. Administrativo",
+        "nome": "① Dir. Administrativo",
         "minutos": 120,
         "assunto": "Desapropriação — Lei Seca (DL 3.365/41, LC 76/93) + Jurisprudência"
       },
       {
-        "nome": "Dir. Empresarial",
+        "nome": "② Dir. Empresarial",
         "minutos": 90,
         "assunto": "Propriedade Industrial — Lei Seca (Lei 9.279/96) + Doutrina"
       },
@@ -765,12 +765,12 @@
     "tempo_total": "4h",
     "disciplinas": [
       {
-        "nome": "Dir. Consumidor",
+        "nome": "① Dir. Consumidor",
         "minutos": 105,
         "assunto": "Superendividamento — Lei Seca (Lei 14.181/2021) + Doutrina"
       },
       {
-        "nome": "ECA",
+        "nome": "② ECA",
         "minutos": 105,
         "assunto": "Autorização de viagem — Lei Seca (arts. 83-85 ECA) + Jurisprudência"
       },
@@ -788,12 +788,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Direito Civil",
+        "nome": "① Direito Civil",
         "minutos": 90,
         "assunto": "Sucessão legítima — Lei Seca (art. 1.829 CC) + Cálculo de quinhões"
       },
       {
-        "nome": "Dir. Eleitoral",
+        "nome": "② Dir. Eleitoral",
         "minutos": 60,
         "assunto": "Condutas vedadas aos agentes públicos — Lei Seca (art. 73 Lei 9.504/97)"
       },
@@ -811,12 +811,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Processo Civil",
+        "nome": "① Processo Civil",
         "minutos": 90,
         "assunto": "Petição inicial — Lei Seca (arts. 318-331 CPC) + Jurisprudência (emenda, indeferimento)"
       },
       {
-        "nome": "Dir. Ambiental",
+        "nome": "② Dir. Ambiental",
         "minutos": 60,
         "assunto": "LC 140/2011 (Cooperação federativa) — Lei Seca + Doutrina"
       },
@@ -834,12 +834,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Direito Penal",
+        "nome": "① Direito Penal",
         "minutos": 90,
         "assunto": "Lei de Drogas — Lei Seca (Lei 11.343/06) + Jurisprudência STF (Tema 506)"
       },
       {
-        "nome": "Dir. Humanos",
+        "nome": "② Dir. Humanos",
         "minutos": 60,
         "assunto": "Convenção sobre Direitos das Pessoas com Deficiência — Lei Seca + Doutrina"
       },
@@ -857,12 +857,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Processo Penal",
+        "nome": "① Processo Penal",
         "minutos": 90,
         "assunto": "Competência — Lei Seca + Súmulas (704 STF, 122 STJ) + Jurisprudência"
       },
       {
-        "nome": "Form. Humanística",
+        "nome": "② Form. Humanística",
         "minutos": 60,
         "assunto": "Pragmatismo, AED e Economia Comportamental — Doutrina (heurísticas, vieses cognitivos)"
       },
@@ -880,12 +880,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Dir. Constitucional",
+        "nome": "① Dir. Constitucional",
         "minutos": 90,
         "assunto": "Intervenção nos Estados e Municípios — Lei Seca (arts. 34-36 CF) + Jurisprudência"
       },
       {
-        "nome": "Dir. Tributário",
+        "nome": "② Dir. Tributário",
         "minutos": 60,
         "assunto": "Responsabilidade tributária — Lei Seca (arts. 128-138 CTN) + Jurisprudência"
       },
@@ -903,12 +903,12 @@
     "tempo_total": "4h",
     "disciplinas": [
       {
-        "nome": "Dir. Administrativo",
+        "nome": "① Dir. Administrativo",
         "minutos": 120,
         "assunto": "Concessões e Permissões — Lei Seca (Lei 8.987/95) + Doutrina (caducidade)"
       },
       {
-        "nome": "Dir. Empresarial",
+        "nome": "② Dir. Empresarial",
         "minutos": 90,
         "assunto": "Recuperação extrajudicial — Lei Seca (Lei 11.101/05 — art. 163) + Doutrina"
       },
@@ -926,12 +926,12 @@
     "tempo_total": "4h",
     "disciplinas": [
       {
-        "nome": "Dir. Consumidor",
+        "nome": "① Dir. Consumidor",
         "minutos": 105,
         "assunto": "Regulamentação de Serviços (ANATEL/ANEEL) — Lei Seca + Jurisprudência"
       },
       {
-        "nome": "ECA",
+        "nome": "② ECA",
         "minutos": 105,
         "assunto": "Conselho Tutelar — Lei Seca (arts. 131-140 ECA) + Doutrina (natureza, atribuições)"
       },
@@ -949,12 +949,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Direito Civil",
+        "nome": "① Direito Civil",
         "minutos": 90,
         "assunto": "Casamento (Família) — Lei Seca + Jurisprudência (divórcio, nulidade/anulabilidade)"
       },
       {
-        "nome": "Dir. Eleitoral",
+        "nome": "② Dir. Eleitoral",
         "minutos": 60,
         "assunto": "Competência da Justiça Eleitoral — Lei Seca (art. 121 CF + CE) + Jurisprudência"
       },
@@ -972,12 +972,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Processo Civil",
+        "nome": "① Processo Civil",
         "minutos": 90,
         "assunto": "Juizados Especiais — Lei Seca (Leis 9.099/95 e 12.153/09) + Jurisprudência"
       },
       {
-        "nome": "Dir. Ambiental",
+        "nome": "② Dir. Ambiental",
         "minutos": 60,
         "assunto": "Política Nacional sobre Mudança do Clima — Lei Seca (Lei 12.187/09)"
       },
@@ -995,12 +995,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Direito Penal",
+        "nome": "① Direito Penal",
         "minutos": 90,
         "assunto": "Culpabilidade — Doutrina (teoria limitada vs. extremada, actio libera in causa)"
       },
       {
-        "nome": "Dir. Humanos",
+        "nome": "② Dir. Humanos",
         "minutos": 60,
         "assunto": "Incidente de Deslocamento de Competência (IDC) — Lei Seca (art. 109 §5º CF)"
       },
@@ -1018,12 +1018,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Processo Penal",
+        "nome": "① Processo Penal",
         "minutos": 90,
         "assunto": "ANPP (Acordo de Não Persecução Penal) — Lei Seca (art. 28-A CPP) + Jurisprudência STF"
       },
       {
-        "nome": "Form. Humanística",
+        "nome": "② Form. Humanística",
         "minutos": 60,
         "assunto": "Sociologia do Direito — Doutrina (Cappelletti — ondas de acesso à justiça)"
       },
@@ -1041,12 +1041,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Dir. Constitucional",
+        "nome": "① Dir. Constitucional",
         "minutos": 90,
         "assunto": "Direitos políticos — Lei Seca (art. 14-16 CF) + Jurisprudência (inelegibilidade)"
       },
       {
-        "nome": "Dir. Tributário",
+        "nome": "② Dir. Tributário",
         "minutos": 60,
         "assunto": "Direito financeiro (orçamento) — Lei Seca (arts. 165-169 CF + LRF)"
       },
@@ -1064,12 +1064,12 @@
     "tempo_total": "4h",
     "disciplinas": [
       {
-        "nome": "Dir. Administrativo",
+        "nome": "① Dir. Administrativo",
         "minutos": 120,
         "assunto": "Controle pelo Tribunal de Contas — Lei Seca (arts. 70-75 CF) + Jurisprudência STF"
       },
       {
-        "nome": "Dir. Empresarial",
+        "nome": "② Dir. Empresarial",
         "minutos": 90,
         "assunto": "Cédula de Produto Rural — Lei Seca (Lei 8.929/94) + Jurisprudência"
       },
@@ -1087,12 +1087,12 @@
     "tempo_total": "4h",
     "disciplinas": [
       {
-        "nome": "Dir. Consumidor",
+        "nome": "① Dir. Consumidor",
         "minutos": 105,
         "assunto": "Desconsideração da Personalidade Jurídica — Doutrina (teoria menor — art. 28 CDC)"
       },
       {
-        "nome": "ECA",
+        "nome": "② ECA",
         "minutos": 105,
         "assunto": "Entrega voluntária para adoção — Lei Seca (art. 19-A ECA) + Doutrina (sigilo)"
       },
@@ -1110,12 +1110,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Direito Civil",
+        "nome": "① Direito Civil",
         "minutos": 90,
         "assunto": "Fiança (Contratos) — Lei Seca (arts. 818-839 CC) + Súmula 332 STJ"
       },
       {
-        "nome": "Dir. Eleitoral",
+        "nome": "② Dir. Eleitoral",
         "minutos": 60,
         "assunto": "Prestação de contas — Lei Seca (Lei 9.504/97) + Jurisprudência"
       },
@@ -1133,12 +1133,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Processo Civil",
+        "nome": "① Processo Civil",
         "minutos": 90,
         "assunto": "Competência — Lei Seca (arts. 42-66 CPC) + Jurisprudência (Tema 988 STJ)"
       },
       {
-        "nome": "Dir. Ambiental",
+        "nome": "② Dir. Ambiental",
         "minutos": 60,
         "assunto": "PNRH (Recursos Hídricos) — Lei Seca (Lei 9.433/97) + Doutrina"
       },
@@ -1156,12 +1156,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Direito Penal",
+        "nome": "① Direito Penal",
         "minutos": 90,
         "assunto": "Direito Penal Militar — Lei Seca (CPM) + Jurisprudência (competência, Súmula 78 STJ)"
       },
       {
-        "nome": "Dir. Humanos",
+        "nome": "② Dir. Humanos",
         "minutos": 60,
         "assunto": "Jurisprudência STF em matéria de DH — Jurisprudência (homotransfobia, marco temporal)"
       },
@@ -1179,12 +1179,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Processo Penal",
+        "nome": "① Processo Penal",
         "minutos": 90,
         "assunto": "Juizados Especiais Criminais — Lei Seca (Lei 9.099/95) + Jurisprudência"
       },
       {
-        "nome": "Form. Humanística",
+        "nome": "② Form. Humanística",
         "minutos": 60,
         "assunto": "Agenda 2030 e ODS — Doutrina (Meta 16 — Paz e Justiça) + Resoluções CNJ"
       },
@@ -1202,12 +1202,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Dir. Constitucional",
+        "nome": "① Dir. Constitucional",
         "minutos": 90,
         "assunto": "Tribunais de Contas — Lei Seca (arts. 70-75 CF) + Jurisprudência STF (Tema 835)"
       },
       {
-        "nome": "Dir. Tributário",
+        "nome": "② Dir. Tributário",
         "minutos": 60,
         "assunto": "ITCMD — Lei Seca (art. 155, I CF) + Jurisprudência STF (Tema 1214)"
       },
@@ -1225,12 +1225,12 @@
     "tempo_total": "4h",
     "disciplinas": [
       {
-        "nome": "Dir. Administrativo",
+        "nome": "① Dir. Administrativo",
         "minutos": 120,
         "assunto": "Organização administrativa — Doutrina (descentralização vs. desconcentração)"
       },
       {
-        "nome": "Dir. Empresarial",
+        "nome": "② Dir. Empresarial",
         "minutos": 90,
         "assunto": "Sociedade Cooperativa — Lei Seca (Lei 5.764/71 + arts. 1.093-1.096 CC) + Doutrina"
       },
@@ -1248,12 +1248,12 @@
     "tempo_total": "4h",
     "disciplinas": [
       {
-        "nome": "Dir. Consumidor",
+        "nome": "① Dir. Consumidor",
         "minutos": 105,
         "assunto": "Práticas Comerciais Abusivas — Lei Seca (art. 39 CDC) + Jurisprudência (venda casada)"
       },
       {
-        "nome": "ECA",
+        "nome": "② ECA",
         "minutos": 105,
         "assunto": "Direito à Educação — Lei Seca (arts. 53-59 ECA) + Jurisprudência (creche, homeschooling)"
       },
@@ -1271,12 +1271,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Direito Civil",
+        "nome": "① Direito Civil",
         "minutos": 90,
         "assunto": "Desconsideração da personalidade jurídica — Doutrina (teoria maior/menor) + Lei Seca"
       },
       {
-        "nome": "Dir. Eleitoral",
+        "nome": "② Dir. Eleitoral",
         "minutos": 60,
         "assunto": "Ação de impugnação de mandato eletivo (AIME) — Lei Seca (art. 14 CF) + Doutrina"
       },
@@ -1294,12 +1294,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Processo Civil",
+        "nome": "① Processo Civil",
         "minutos": 90,
         "assunto": "Provas (produção e ônus) — Lei Seca + Doutrina (distribuição dinâmica, art. 373 §1º)"
       },
       {
-        "nome": "Dir. Ambiental",
+        "nome": "② Dir. Ambiental",
         "minutos": 60,
         "assunto": "Pagamento por Serviços Ambientais (PSA) — Lei Seca (Lei 14.119/21)"
       },
@@ -1317,12 +1317,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Direito Penal",
+        "nome": "① Direito Penal",
         "minutos": 90,
         "assunto": "Concurso de pessoas — Doutrina (domínio do fato, autoria colateral) + Lei Seca"
       },
       {
-        "nome": "Dir. Humanos",
+        "nome": "② Dir. Humanos",
         "minutos": 60,
         "assunto": "Proteção de grupos vulneráveis — Doutrina + Jurisprudência STF (perspectiva de gênero)"
       },
@@ -1340,12 +1340,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Processo Penal",
+        "nome": "① Processo Penal",
         "minutos": 90,
         "assunto": "Medidas assecuratórias — Lei Seca (arts. 125-144 CPP) + Jurisprudência"
       },
       {
-        "nome": "Form. Humanística",
+        "nome": "② Form. Humanística",
         "minutos": 60,
         "assunto": "Judicialização da política — Doutrina (ativismo judicial, autocontenção)"
       },
@@ -1363,12 +1363,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Dir. Constitucional",
+        "nome": "① Dir. Constitucional",
         "minutos": 90,
         "assunto": "Servidores Públicos — Lei Seca (arts. 37-41 CF) + Súmulas Vinculantes"
       },
       {
-        "nome": "Dir. Tributário",
+        "nome": "② Dir. Tributário",
         "minutos": 60,
         "assunto": "Decadência tributária — Lei Seca (arts. 150 §4º e 173 CTN) + Jurisprudência"
       },
@@ -1386,12 +1386,12 @@
     "tempo_total": "4h",
     "disciplinas": [
       {
-        "nome": "Dir. Administrativo",
+        "nome": "① Dir. Administrativo",
         "minutos": 120,
         "assunto": "Parcerias Público-Privadas — Lei Seca (Lei 11.079/04) + Doutrina"
       },
       {
-        "nome": "Dir. Empresarial",
+        "nome": "② Dir. Empresarial",
         "minutos": 90,
         "assunto": "Protesto — Lei Seca (Lei 9.492/97) + Jurisprudência"
       },
@@ -1409,12 +1409,12 @@
     "tempo_total": "4h",
     "disciplinas": [
       {
-        "nome": "Dir. Consumidor",
+        "nome": "① Dir. Consumidor",
         "minutos": 105,
         "assunto": "Cadastro Positivo — Lei Seca (Lei 12.414/11) + Jurisprudência (abertura automática)"
       },
       {
-        "nome": "ECA",
+        "nome": "② ECA",
         "minutos": 105,
         "assunto": "LOAS (Assistência Social) — Lei Seca (Lei 8.742/93) + Doutrina (programas socioassistenciais)"
       },
@@ -1432,12 +1432,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Direito Civil",
+        "nome": "① Direito Civil",
         "minutos": 90,
         "assunto": "Simulação (Fatos jurídicos) — Lei Seca (art. 167 CC) + Doutrina (nulidade absoluta)"
       },
       {
-        "nome": "Dir. Eleitoral",
+        "nome": "② Dir. Eleitoral",
         "minutos": 60,
         "assunto": "Captação ilícita de recursos — Lei Seca + Jurisprudência"
       },
@@ -1455,12 +1455,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Processo Civil",
+        "nome": "① Processo Civil",
         "minutos": 90,
         "assunto": "Agravo de instrumento — Lei Seca (art. 1.015 CPC) + Jurisprudência (Tema 988 STJ)"
       },
       {
-        "nome": "Dir. Ambiental",
+        "nome": "② Dir. Ambiental",
         "minutos": 60,
         "assunto": "PNRS (Resíduos Sólidos) — Lei Seca (Lei 12.305/10) + Jurisprudência"
       },
@@ -1478,12 +1478,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Direito Penal",
+        "nome": "① Direito Penal",
         "minutos": 90,
         "assunto": "Fixação da pena (sistema trifásico) — Doutrina + Jurisprudência"
       },
       {
-        "nome": "Dir. Humanos",
+        "nome": "② Dir. Humanos",
         "minutos": 60,
         "assunto": "TPI e Estatuto de Roma — Lei Seca (complementaridade, crimes de competência)"
       },
@@ -1501,12 +1501,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Processo Penal",
+        "nome": "① Processo Penal",
         "minutos": 90,
         "assunto": "Tribunal do Júri — Lei Seca (arts. 406-497 CPP) + Jurisprudência STF (Tema 1068)"
       },
       {
-        "nome": "Form. Humanística",
+        "nome": "② Form. Humanística",
         "minutos": 60,
         "assunto": "O conceito de Justiça / Filosofia — Doutrina (Rawls, Habermas, Kelsen, Dworkin)"
       },
@@ -1524,12 +1524,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Dir. Constitucional",
+        "nome": "① Dir. Constitucional",
         "minutos": 90,
         "assunto": "Interpretação da Constituição — Doutrina (Häberle, derrotabilidade, backlash)"
       },
       {
-        "nome": "Dir. Tributário",
+        "nome": "② Dir. Tributário",
         "minutos": 60,
         "assunto": "Denúncia espontânea — Lei Seca (art. 138 CTN) + Jurisprudência STJ"
       },
@@ -1547,12 +1547,12 @@
     "tempo_total": "4h",
     "disciplinas": [
       {
-        "nome": "Dir. Administrativo",
+        "nome": "① Dir. Administrativo",
         "minutos": 120,
         "assunto": "Parcerias com o terceiro setor — Lei Seca (Lei 13.019/14 — MROSC) + Doutrina"
       },
       {
-        "nome": "Dir. Empresarial",
+        "nome": "② Dir. Empresarial",
         "minutos": 90,
         "assunto": "Desconsideração da PJ / Cheque / Estabelecimento — Lei Seca + Jurisprudência"
       },
@@ -1570,12 +1570,12 @@
     "tempo_total": "4h",
     "disciplinas": [
       {
-        "nome": "Dir. Consumidor",
+        "nome": "① Dir. Consumidor",
         "minutos": 105,
         "assunto": "Sanções administrativas — Lei Seca (arts. 55-60 CDC) + Jurisprudência (Súmula 675 STJ)"
       },
       {
-        "nome": "ECA",
+        "nome": "② ECA",
         "minutos": 105,
         "assunto": "Acolhimento institucional e familiar — Lei Seca (arts. 92-102 ECA) + Doutrina"
       },
@@ -1593,12 +1593,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Direito Civil",
+        "nome": "① Direito Civil",
         "minutos": 90,
         "assunto": "Usucapião (Propriedade) — Lei Seca (modalidades) + Jurisprudência"
       },
       {
-        "nome": "Dir. Eleitoral",
+        "nome": "② Dir. Eleitoral",
         "minutos": 60,
         "assunto": "Alistamento e Poder normativo do TSE — Lei Seca (CE) + Doutrina"
       },
@@ -1616,12 +1616,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Processo Civil",
+        "nome": "① Processo Civil",
         "minutos": 90,
         "assunto": "Revisão Ouro: Procedimentos Especiais e Ações Possessórias"
       },
       {
-        "nome": "Dir. Ambiental",
+        "nome": "② Dir. Ambiental",
         "minutos": 60,
         "assunto": "Revisão Ouro: SNUC e Princípios do Direito Ambiental"
       },
@@ -1639,12 +1639,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Direito Penal",
+        "nome": "① Direito Penal",
         "minutos": 90,
         "assunto": "Revisão Ouro: Erro de tipo e Erro de proibição + Legislação Extravagante"
       },
       {
-        "nome": "Dir. Humanos",
+        "nome": "② Dir. Humanos",
         "minutos": 60,
         "assunto": "Revisão Ouro: Estatuto do Refugiado e Lei de Migração"
       },
@@ -1662,12 +1662,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Processo Penal",
+        "nome": "① Processo Penal",
         "minutos": 90,
         "assunto": "Revisão Ouro: Nulidades no Processo Penal (Súmulas e Princípios)"
       },
       {
-        "nome": "Form. Humanística",
+        "nome": "② Form. Humanística",
         "minutos": 60,
         "assunto": "Revisão Ouro: Princípios de Bangalore e Ética da Magistratura"
       },
@@ -1685,12 +1685,12 @@
     "tempo_total": "3h",
     "disciplinas": [
       {
-        "nome": "Dir. Constitucional",
+        "nome": "① Dir. Constitucional",
         "minutos": 90,
         "assunto": "Revisão Ouro: Imunidades Parlamentares e Poder Judiciário (CNJ e Estrutura)"
       },
       {
-        "nome": "Dir. Tributário",
+        "nome": "② Dir. Tributário",
         "minutos": 60,
         "assunto": "Revisão Ouro: Princípios Tributários Constitucionais e Tributos Municipais"
       },
@@ -1708,12 +1708,12 @@
     "tempo_total": "4h",
     "disciplinas": [
       {
-        "nome": "Dir. Administrativo",
+        "nome": "① Dir. Administrativo",
         "minutos": 120,
         "assunto": "Revisão Ouro: Atos Administrativos (Atributos, Anulação e Revogação)"
       },
       {
-        "nome": "Dir. Empresarial",
+        "nome": "② Dir. Empresarial",
         "minutos": 90,
         "assunto": "Revisão Ouro: Teoria Geral dos Títulos de Crédito (Endosso, Aval e Ação Cambial)"
       },
